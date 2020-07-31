@@ -14,9 +14,9 @@ This program is based on the Android-nRF-Blinky released by NordicSemiconductor 
 - Arduino IDE 1.8.13
 
 # Source code for Arduino
-arduino/whack_a_mole.ino
+- arduino/whack_a_mole.ino
 
 # 3D printing data for SG90 actuator
-3d/SG90_LinearActuator_Gear.stl
-3d/SG90_LinearActuator_Linear.stl
-3d/SG90_LinearActuator_Mount.stl
+- 3d/SG90_LinearActuator_Gear.stl
+- 3d/SG90_LinearActuator_Linear.stl
+- 3d/SG90_LinearActuator_Mount.stl
